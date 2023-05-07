@@ -1,0 +1,1 @@
+This repository corresponds to the scripts used to perform the experimental study described in this paper: ``Dollo-CDP: Leveraging constraints plus dynamic programming for the large Dollo parsimony problem.''
